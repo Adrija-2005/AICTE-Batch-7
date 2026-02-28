@@ -27,7 +27,3 @@ Kaggle Fake and Real News Dataset
 2. Text is transformed using TF-IDF Vectorizer.
 3. Logistic Regression model predicts the class.
 4. System displays prediction with confidence score.
-
-## How to Run the Project
-
-1. Install dependencies:
