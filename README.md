@@ -28,4 +28,7 @@ Kaggle Fake and Real News Dataset
 3. Logistic Regression model predicts the class.
 4. System displays prediction with confidence score.
 
+Note: The dataset files are not included in this repository due to GitHub file size limitations.  
+They can be downloaded from the "Fake and Real News Dataset" on Kaggle.
+
 
